@@ -5,7 +5,12 @@ This is a demonstration of a simple 1-dimensional metadynamics. It is built with
 ## Structure
 
 `DATA/`: 
+
 `output/`: 
+
 `md.ipynb`: 
+
 `metad_sigma.ipynb`: 
+
 `swim.py`: 
+
