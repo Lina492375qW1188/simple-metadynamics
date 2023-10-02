@@ -4,13 +4,13 @@ This is a demonstration of a simple 1-dimensional metadynamics. It is built with
 
 ## Structure
 
-`DATA/`: 
+`DATA/`: \
 
-`output/`: 
+`output/`: \
 
-`md.ipynb`: 
+`md.ipynb`: \
 
-`metad_sigma.ipynb`: 
+`metad_sigma.ipynb`: \
 
-`swim.py`: 
+`swim.py`: \
 
