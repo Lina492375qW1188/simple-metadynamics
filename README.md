@@ -1,2 +1,5 @@
 # simple-metadynamics
-1-dim example metadynamics demonstration in python.
+
+This is a demonstration of a simple 1-dimensional metadynamics. It is built with some basic numpy to make the code cleaner and matplotlib for visualization.
+
+
